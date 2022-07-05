@@ -7,3 +7,5 @@
 * Craft Redstone Repeaters and Comparators with sticks instead of redstone torches
 * Uncraft Amethyst blocks back into shards
 * Stonecutter recipes for Stone and Deepslate to their Cobblestone versions
+* Craftable Bells
+* Craftable Chainmail Armor
