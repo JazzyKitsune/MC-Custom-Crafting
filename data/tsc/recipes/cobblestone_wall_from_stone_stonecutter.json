@@ -1,8 +1,10 @@
 {
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "item": "minecraft:stone"
-    },
-    "result": "minecraft:cobblestone_wall",
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "id": "minecraft:cobblestone_wall",
     "count": 1
   }
+}
