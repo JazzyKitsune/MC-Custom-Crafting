@@ -1,5 +1,5 @@
 # MC Custom Crafting
- Our custom crafting recipes, here for ease of sharing
+My Custom Crafting Recipes that I like to use when I play Minecraft
 
 # Current Inclusions
 
