@@ -1,23 +1,17 @@
- {
-     "type": "minecraft:crafting_shaped",
-     "pattern": [
-         "r r",
-         "srs",
-         "ttt"
-     ],
-     "key": {
-         "r": {
-             "item": "minecraft:redstone"
-         },
-         "s": {
-            "item": "minecraft:stick"
-         },
-         "t": {
-             "item": "minecraft:stone"
-         }
-     },
-     "result": {
-         "id": "minecraft:repeater",
-         "count": 1
-     }
- }
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "r r",
+        "srs",
+        "ttt"
+    ],
+    "key": {
+        "r": "minecraft:redstone",
+        "s": "minecraft:stick",
+        "t": "minecraft:stone"
+    },
+    "result": {
+        "id": "minecraft:repeater",
+        "count": 1
+    }
+}

@@ -1,10 +1,8 @@
 {
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "tag": "minecraft:mangrove_logs"
-    },
-    "result": {
-      "id": "minecraft:mangrove_fence_gate",
-      "count": 4
-    }
+  "type": "minecraft:stonecutting",
+  "ingredient": "#minecraft:mangrove_logs",
+  "result": {
+    "id": "minecraft:mangrove_fence_gate",
+    "count": 4
   }
+}
