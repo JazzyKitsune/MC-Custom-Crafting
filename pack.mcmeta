@@ -1,12 +1,7 @@
 {
   "pack": {
-    "pack_format": 107.1,
-    "description": "Custom Crafting Recipes by JazzyKitsune v 26.x-1",
+    "description": "Custom Crafting Recipes by JazzyKitsune v 26.x-2",
     "min_format": 101.1,
-    "max_format": 107.1,
-    "supported_formats": {
-      "min_inclusive": 101.1,
-      "max_inclusive": 107.1
-    }
+    "max_format": 121.0
   }
 }
